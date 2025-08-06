@@ -1,0 +1,24 @@
+{
+  "TG_BOT_TOKEN": "",
+  "TG_USER_ID": "",
+  "SKEY": "",
+  "SCKEY": "",
+  "POSITION": "",
+  "CORPID": "",
+  "CORPSECRET": "",
+  "AGENTID": "",
+  "TOUSER": "",
+  "TOPARTY": "",
+  "TOTAG": "",
+  "OPEN_GET_WEATHER": "",
+  "AREA": "",
+  "QWEATHER": "",
+  "MIMOTION": [
+    {
+      "max_step": "5000",
+      "min_step": "4000",
+      "password": "succeed0207",
+      "user": "806176940@qq.com"
+    }
+  ]
+} 
